@@ -11,7 +11,7 @@ title: "Boxhaus"
 [ig](https://www.instagram.com/don.box/)
 
 
-I'm finding that I need a place to write longer form text that can have stable links. I doubt that I'll ever write another long-form book, but I am definitely finding myself in essay mode. 
+I'm finding that I need a place to write longer form text that can have stable links. I doubt that I'll ever write another long-form book, but I am definitely finding myself in essay mode.  For a while at least.
 
 Lately I've been spending my programming time in [Rust](https://www.rust-lang.org) and spelunking the plethora of [IDL and RPC systems that have cropped this century](https://twitter.com/donbox/status/1402720653942218753). 
 
