@@ -16,8 +16,7 @@ I'm finding that I need a place to write longer form text that can have stable l
 
 Lately I've been spending my programming time in [Rust](https://www.rust-lang.org) and spelunking the plethora of [IDL and RPC systems that have cropped this century](https://twitter.com/donbox/status/1402720653942218753). 
 
-Musically, I'm finally getting serious about studying the guitar and learning to play (gasp) with a pick.
-
+Musically, I'm finally getting serious about studying the guitar and learning to play (gasp) with a pick. Finally.
 
 ## Musings
 <table>
