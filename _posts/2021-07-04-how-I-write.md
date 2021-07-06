@@ -18,7 +18,8 @@ From a tools perspective, I feel like I've come full circle. I decided to catalo
 
 ## TL;DR
 
-I live in VS Code, writing Rust and/or Markdown for pretty much everything. It's pretty sweet.  The rest of this page is all historical.
+I now live happily in VS Code, writing Rust and/or Markdown for pretty much everything. It's pretty sweet.  The rest of this page is all historical.
+
 
 ## Editing Text
 
