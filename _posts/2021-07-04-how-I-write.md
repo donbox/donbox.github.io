@@ -136,8 +136,6 @@ Again, I think Markdown is here to stay, and again, Marp meets my modest needs.
 
 I will say that I miss the ubiquity of Microsoft Teams since I've left MS. I now find myself using 5 different VC solutions in a given week - none of which are Teams. Sigh...
 
-
-
 ## Creating and Publishing Music Manuscripts
 
 I haven't composed new music for a very long time, but I love transcribing music, primarily to really understand a how a piece of music holds together.
