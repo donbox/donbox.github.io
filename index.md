@@ -3,7 +3,8 @@ layout: default
 title: "Boxhaus"
 ---
 
-## Don Box
+
+# Don Box
 
 [twitter](https://twitter.com/donbox)
 [linkedin](https://www.linkedin.com/in/don-box-1a27b/)
@@ -18,7 +19,7 @@ Lately I've been spending my programming time in [Rust](https://www.rust-lang.or
 Musically, I'm finally getting serious about studying the guitar and learning to play (gasp) with a pick.
 
 
-### Musings
+## Musings
 <table>
 <thead>
 </thead>

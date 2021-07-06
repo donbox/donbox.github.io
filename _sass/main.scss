@@ -1,9 +1,32 @@
 $backgroundColor: #ffffff;
 $bodyColor: #000000;
-$bodyFont: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+$headerFont: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+$bodyFont: $headerFont;
+//$bodyFont: 'Merriweather', serif;
+//$headerFont: 'Open Sans', sans-serif;
 
 body {
   background: $backgroundColor;
   color: $bodyColor;
   font-family: $bodyFont;
+}
+
+h1 {
+  font-size: 160%;
+  font-family: $headerFont;
+}
+
+h2 {
+  font-size: 120%;
+  font-family: $headerFont;
+}
+
+h3 {
+  font-size: 110%;
+  font-family: $headerFont;
+}
+
+h4 {
+  font-size: 105%;
+  font-family: $headerFont;
 }
