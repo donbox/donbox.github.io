@@ -12,6 +12,10 @@ I'm programming more than I have in over a decade.  I joined a [Guitar Circle](h
 
 I'm working way differently than in the past, and thought I'd catalog my digital toolset journey here, mainly for the personal perspective I get out of writing stuff down.
 
+## TL;DR
+
+I live in VS Code, writing Rust and/or Markdown for pretty much everything. It's pretty sweet.  The rest of page is all historical.
+
 ## Editing Text
 
 The first text editor I fell in love with was [MPW Shell](https://en.wikipedia.org/wiki/Macintosh_Programmer%27s_Workshop).  I was doing free lance Mac programming in C++ and HyperCard to pay the bills, and this is where I started.  I loved the way the shell and editor integrated - [Cmd-Enter](http://mirror.informatimago.com/next/developer.apple.com/tools/mpw-tools/commandref/doit.html) was mind-blowing! 
