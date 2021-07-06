@@ -93,7 +93,7 @@ either as an IIS filter or via the `xml-stylesheet` processing instruction.  I r
 that environment - it was simple and immediate.
 
 When [PluralSight](https://www.pluralsight.com) got started by a few friends/former coworkers, 
-I moved my blog to their site using an off-the-shelf blog engine (DotText IIRC). The writing experience was *meh* but I 
+I moved [my blog to their site](https://web.archive.org/web/20070815002503/http://www.pluralsight.com/blogs/dbox/archive/2004/09/29/2486.aspx) using an off-the-shelf blog engine (DotText). The writing experience was *meh* but I 
 was happy to be working with [Aaron](https://www.instagram.com/skonnard/), [Keith](https://www.pluralsight.com/authors/keith-brown), and [Fritz](https://www.instagram.com/fritzonion/) so it was all good.
 
 About a year ago, I started writing primarily in [Markdown](https://daringfireball.net/projects/markdown/) using VS Code.  The syntax is easy on the eye and my fingers, and I'm hoping this is the last format I need to master. 
