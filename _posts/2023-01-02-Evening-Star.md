@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Evening Star and NST"
+description: "A basic arrangement sans melody/solo"
 ---
 
 # Evening Star and NST

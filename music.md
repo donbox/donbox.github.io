@@ -20,7 +20,9 @@ Robert Fripp's first solo album, Exposure, is my favorite album of all time. I c
 
 When I started playing NST Guitar, I decided to start transcribing and arranging pieces from that album both to better understand the music that I've loved for so long, but also to better understand how to play an instrument that still feels foreign to me.
 
-// TODO, port from other repo
+* [Breathless](music/pdf/Breathless.pdf)
+* [I May Not Have Enough Of Me But I've Had Enough Of You](music/pdf/I_May_Not_Have_Enough_Of_Me But_I've_Had_Enough_Of_You.pdf)
+* [Haaden Two](music/pdf/Haaden_Two.pdf)
 
 ### New Standard Tuning
 
@@ -32,7 +34,6 @@ The following are my attempts at finding reasonable paths through the instrument
 * [Licorice Pizza Theme (Jonny Greenwood)](music/pdf/Licorice-Pizza-Simplest-Theme.pdf)
 * [Giant Steps changes (John Coltrane)](music/pdf/Giant-Steps.pdf)
 * [Evening Star (Fripp/Eno)](music/pdf/Evening_Star.pdf)
-// TODO, port from other repo
 
 
 ### Jon Brion
