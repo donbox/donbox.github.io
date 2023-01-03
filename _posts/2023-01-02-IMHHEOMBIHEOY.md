@@ -11,6 +11,6 @@ During my nomadic summer of 2022, I picked up an inexpensive guitar to keep in N
 I had time on one of my visits to transcribe two more pieces from Exposure. 
 
 This time, [Haaden Two](../../../music/pdf/Haaden_Two.pdf) and 
-[I May Not Have Enough Of Me But I've Had Enough Of You](../../../music/pdf/I_May_Not_Have_Enough_Of_Me But_I've_Had_Enough_Of_You.pdf).
+[I May Not Have Enough Of Me But I've Had Enough Of You](../../../music/pdf/I_May_Not_Have_Enough_Of_Me_But_I've_Had_Enough_Of_You.pdf).
 
 
