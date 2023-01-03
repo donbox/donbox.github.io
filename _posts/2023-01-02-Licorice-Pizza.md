@@ -7,12 +7,8 @@ title: "Licorice Pizza and NST"
 
 I love Paul Thomas Anderson's work.
 
-I love Jon Brion's work, including his work on PTA's movies.
+I transcribed Here We Go from Punch Drunk Love years ago, but Licorice Pizza has a really beautiful theme that I thought would sound nice in a Guitar Circle setting.
 
-That stated, Jonny Greenwood composed a really beautiful theme for Licorice Pizza.
-
-I did a simple NST arrangement of it prior to the 2022 Glen Cove Guitar Circle. We never adequately rehearsed it - maybe at a future event.
+I did a simple arrangement of it prior to the 2022 Glen Cove Guitar Circle. We never adequately rehearsed it let alone performed it - maybe at a future event.
 
 [Here is the arrangement I came up with](../../../music/pdf/Licorice-Pizza-Simplest-Theme.pdf).
-
-
