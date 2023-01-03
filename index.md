@@ -6,17 +6,14 @@ title: "Boxhaus"
 
 # Don Box
 
-[twitter](https://twitter.com/donbox)
-[linkedin](https://www.linkedin.com/in/don-box-1a27b/)
-[github](https://github.com/donbox)
-[ig](https://www.instagram.com/don.box/)
-[ug](https://www.ultimate-guitar.com/u/guidboy)
+I'm a writer, a musician, an engineer, and a builder. But above all, I'm a human who's hopelessly focused on presence. See [this page](about_me.html) for some of the gory details.
 
-I'm finding that I need a place to write longer form text that can have stable links. I doubt that I'll ever write another long-form book, but I am definitely finding myself in essay mode.  For a little while at least.
+Outside of my professional life, I mainly do music. See [this page] for the deets, including links to the transcriptions I've done over the years.
 
-Lately I've been spending my programming time in [Rust](https://www.rust-lang.org) and spelunking the plethora of [IDL and RPC systems that have cropped this century](https://twitter.com/donbox/status/1402720653942218753). 
 
-Musically, I'm finally getting serious about studying the guitar and learning to play (gasp) with a pick. Finally. 
+
+
+
 
 ## Musings
 <table>
@@ -31,3 +28,11 @@ Musically, I'm finally getting serious about studying the guitar and learning to
   {% endfor %}
 </tbody>
 </table>
+
+---
+[github](https://github.com/donbox)
+[ug](https://www.ultimate-guitar.com/u/guidboy)
+[ig](https://www.instagram.com/don.box/)
+[fb](https://www.facebook.com/don.box)
+[twitter](https://twitter.com/donbox)
+[linkedin](https://www.linkedin.com/in/don-box-1a27b/)
