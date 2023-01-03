@@ -13,6 +13,6 @@ The property of alternating Maj6 and dim7 chords spelling out the scale in four 
 
 I spent a day or two on piano starting to get it into my head, and of course spent some time today putting it under my fingers on NST Guitar.
 
-Here are [my first attempts](music/pdf/6th-diminished.pdf) at NST voicings.
+Here are [my first attempts](../../../music/pdf/6th-diminished.pdf) at NST voicings.
 
 
