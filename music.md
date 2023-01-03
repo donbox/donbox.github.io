@@ -31,6 +31,7 @@ The following are my attempts at finding reasonable paths through the instrument
 * [6th Diminished Chord Voicings](music/pdf/6th-diminished.pdf)
 * [Licorice Pizza Theme (Jonny Greenwood)](music/pdf/Licorice-Pizza-Simplest-Theme.pdf)
 * [Giant Steps changes (John Coltrane)](music/pdf/Giant-Steps.pdf)
+* [Evening Star (Fripp/Eno)](music/pdf/Evening_Star.pdf)
 // TODO, port from other repo
 
 
