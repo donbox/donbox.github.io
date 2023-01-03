@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Giant Steps and NST"
+description: "II/V/I in New Standard Tuning"
 ---
 
 # Giant Steps and NST

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "6th diminished and NST"
+description: "Classic jazz form for NST tuning."
 ---
 
 # 6th Diminished and NST

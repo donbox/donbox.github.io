@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Breathless and NST"
+description: "My favorite song from my favorite album suitable for three NST guitars"
 ---
 
 # Breathless in NST
