@@ -10,7 +10,7 @@ title: "About Don Box..."
 I'm a writer, a [musician](music.html), an engineer, and a builder. But above all, I'm a human who's hopelessly focused on presence.
 
 ### Writing
-For me, writing and speaking go hand in hand, and I did both for a living in the 1990's. In 2002, I left the world of writing and speaking to building. Nowadays, I write either to get clarity on my own thoughts and/or to help drive clarity with others I work with. 
+For me, writing and speaking go hand in hand, and I did both for a living in the 1990's. In 2002, I left the world of writing and speaking to building products for a living. Nowadays, I write either to get clarity on my own thoughts and/or to help drive clarity with others I work with. 
 
 I do my best writing in a text editor, and switched over from [emacs](https://www.gnu.org/software/emacs/) to [VS Code](https://code.visualstudio.com/) about 5 years ago. 
 
@@ -38,6 +38,8 @@ I joined Microsoft in 2002 and worked on [.NET Framework](https://dotnet.microso
 
 Yes, I work in AR/VR/MR/XR and the metaverse, but that's really a means to an end. 
 
+Presence was a thing before the metaverse was conceived - even before the penultimate Led Zeppelin album was recorded. 
+
 *Metaphysical horse-shit alert*.
 
 Here are four largely unrelated events that collectively have formed how I think about presence. 
@@ -48,7 +50,7 @@ In 2018, I joined the HoloLens team and helped start our "People, Places, and Th
 
 In 2021, I had my first [Guitar Craft](https://guitarcraft.com) experience in Glen Cove, NY. I thought it was going to be a week of learning calesthenics and repertoire on an instrument I barely play in a foreign tuning. Instead, we focus mainly on being present with ourselves, one another, and with the music that is in the room. 
 
-In 2022, I moved from the XR team to the AR team and the primacy of building AR Glasses became obvious to me. Why? Because despite our industry's collective aim to solve the *remote* presence problem, the promise of AR Glasses to improve the *local* presence problem that mobile phones have regressed so much is pretty inspiring and I can believe is the last big problem I'll work on in my professional life.
+In 2022, I moved from the XR team to the AR team and the primacy of building AR Glasses became obvious to me. Why? Because despite our industry's collective aim to solve the *remote* presence problem, the promise of AR Glasses to improve the *local* presence problem have so eroded so much is pretty inspiring. Given the amount of work in front of us, I can believe is the last big problem I'll work on in my professional life.
 
 
 ---
