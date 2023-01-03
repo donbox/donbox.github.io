@@ -11,6 +11,6 @@ I recently did a simple arrangement for NST of the looped material suitable for 
 
 I've mostly worked out the primary melody that Robert plays that I hope to come back and add to the score. 
 
-[Here is the arrangement I came up with](../../../music/pdf/Evening-Star.pdf).
+[Here is the arrangement I came up with](../../../music/pdf/Evening_Star.pdf).
 
 
