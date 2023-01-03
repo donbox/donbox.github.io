@@ -28,6 +28,7 @@ New Standard Tuning presents a number of challenges that I am still working on o
 
 The following are my attempts at finding reasonable paths through the instrument for both concepts and pieces. 
 
+* [6th Diminished Chord Voicings](music/pdf/6th-diminished.pdf)
 // TODO, port from other repo
 
 
