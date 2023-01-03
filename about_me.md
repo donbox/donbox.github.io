@@ -7,7 +7,7 @@ title: "About Don Box..."
 # About Me...
 
 
-I'm a writer, a musician, an engineer, and a builder. But above all, I'm a human who's hopelessly focused on presence.
+I'm a writer, a [musician](music.html), an engineer, and a builder. But above all, I'm a human who's hopelessly focused on presence.
 
 ### Writing
 For me, writing and speaking go hand in hand, and I did both for a living in the 1990's. In 2002, I left the world of writing and speaking to building. Nowadays, I write either to get clarity on my own thoughts and/or to help drive clarity with others I work with. 

@@ -8,7 +8,7 @@ title: "Boxhaus"
 
 I'm a writer, a musician, an engineer, and a builder. But above all, I'm a human who's hopelessly focused on presence. See [this page](about_me.html) for some of the gory details.
 
-Outside of my professional life, I mainly do music. See [this page] for the deets, including links to the transcriptions I've done over the years.
+Outside of my professional life, I mainly do music. See [this page](music.html) for the deets, including links to the transcriptions I've done over the years.
 
 
 
